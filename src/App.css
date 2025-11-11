@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  background-color: #61dafb;
+}
+
+.App-header {
+  background-color: #61dafb;
+  min-height: 25vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-footer {
+  background-color: #61dafb;
+  min-height: 25vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-page {
+  background-color: #61dafb;
+  min-height: 25vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-link {
+  color: white;
+  background-color: #61dafb;
+  width: 100%;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+}

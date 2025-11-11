@@ -1,0 +1,14 @@
+export const S1_MIRRORS = 'Mirrors (side, rearview, interior)';
+export const S2_WINDSHIELD = 'Windshield (cracks, chips, wipers)';
+export const S3_TIRES = 'Tires (treads, lugs, inflation)';
+export const S4_LIGHTS = 'Lights (headlights, taillights, turn signals, brake lights, hazard lights)';
+export const S5_SEATBELTS = 'Seatbelts for each passenger/2 extensions';
+export const S6_ACHEATING = 'A/C Heating (operational) ';
+export const S7_OPERATIONAL_RADIO = 'Operational Radio/Phone/Tablet';
+export const S8_HORN = 'Horn (operational)';
+export const S9_WINDOWS = 'Windows (must be fully functional)';
+export const S10_SIGNAGE = 'Signage (Business name/Phone/PUC number both sides)';
+export const S11_TIRES = 'Tire Tread (check all 4 tires)';
+export const S12_REGISTRATION = 'Vehicle Registration Exp Date';
+export const S13_INSURANCE = 'Insurance Card Exp Date';
+export const S14_STATE_STICKER = 'State Sticker Exp Date'
